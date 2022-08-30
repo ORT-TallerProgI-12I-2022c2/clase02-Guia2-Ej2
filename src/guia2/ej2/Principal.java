@@ -18,7 +18,6 @@ public class Principal {
 		c.agregarArchivo(new ArchivoTexto("Machete", 3, "ORT", "windows-1232"));
 		c.agregarArchivo(new ArchivoAudio("Uptown Girl", 4500, "C:/Mi buena música", 202, "Billy Joel", "An Innocent Man", FormatoAudio.MP3));
 		c.agregarArchivo(new ArchivoTexto("Lista de compras", 5, "Escritorio", "UTF-8"));
-		
 		//c.cerrarTodos();
 		//System.out.println("Cant de texto: " + c.cantArchivosDeTexto());
 		
